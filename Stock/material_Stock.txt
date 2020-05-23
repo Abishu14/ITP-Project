@@ -1,0 +1,55 @@
+CREATE TABLE [dbo].[Materials_Stock] (
+    [INID]               INT          IDENTITY (1, 1) NOT NULL,
+    [Inflow]             VARCHAR (10) DEFAULT ('MD') NOT NULL,
+    [Material_ID]        AS           ([Inflow]+right(CONVERT([varchar],[INID]),(7))) PERSISTED NOT NULL,
+    [Material_Type]      VARCHAR (50) NOT NULL,
+    [Material_Name]      VARCHAR (50) NOT NULL,
+    [Stored_Date]        DATE         NOT NULL,
+    [Quantity]           INT          NOT NULL,
+    [Damage_Quantity]    INT          NOT NULL,
+    [Unit]               CHAR (10)    NOT NULL,
+    [Unit_Price]         FLOAT (53)   NOT NULL,
+    [status]             INT          DEFAULT ((1)) NOT NULL,
+    [Available_StockQty] INT          NOT NULL,
+    PRIMARY KEY CLUSTERED ([Material_ID] ASC)
+);
+
+
+
+--------Client Material----
+
+CREATE TABLE [dbo].[Client_Material] (
+    [INID]              INT          IDENTITY (1, 1) NOT NULL,
+    [Inflow]            VARCHAR (10) DEFAULT ('RCL') NOT NULL,
+    [Receive_Client_ID] AS           ([Inflow]+right(CONVERT([varchar],[INID]),(7))) PERSISTED NOT NULL,
+    [Client_Id]         CHAR (10)    NOT NULL,
+    [ProjectId]         VARCHAR (20) NULL,
+    [Material_Type]     VARCHAR (50) NULL,
+    [Received_Quantity] INT          NULL,
+    [Received_Date]     DATE         NULL,
+    [Expected_Quantity] INT          NULL,
+    [Stock_Quantity]    INT          NULL,
+    [Material_Name]     VARCHAR (50) NOT NULL,
+    [Quantity]          INT          NOT NULL,
+    [status]            INT          DEFAULT ((1)) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Receive_Client_ID] ASC)
+);
+
+
+-------Client Return-----
+
+CREATE TABLE [dbo].[Client_Return_Stock] (
+    [INID]             INT          IDENTITY (1, 1) NOT NULL,
+    [Inflow]           VARCHAR (10) DEFAULT ('RNC') NOT NULL,
+    [Return_Client_Id] AS           ([Inflow]+right(CONVERT([varchar],[INID]),(7))) PERSISTED NOT NULL,
+    [Client_Id]        CHAR (10)    NOT NULL,
+    [ProjectId]        VARCHAR (20) NOT NULL,
+    [Material_Type]    VARCHAR (50) NOT NULL,
+    [Return_Date]      DATE         NOT NULL,
+    [Return_Quantity]  INT          NOT NULL,
+    [Stock_Quantity]   INT          NOT NULL,
+    [Quantity]         INT          NOT NULL,
+    [status]           INT          DEFAULT ((1)) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Return_Client_Id] ASC)
+);
+

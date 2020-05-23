@@ -1,0 +1,194 @@
+c:\users\abishalini\documents\visual studio 2015\Projects\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.materials.resources
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Supply.resources
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.pdb
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Report.resources
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Return.resources
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Stock.resources
+D:\ITP\Stock\Stock\bin\Debug\Stock.exe.config
+D:\ITP\Stock\Stock\obj\Debug\Stock.exe
+D:\ITP\Stock\Stock\obj\Debug\Stock.pdb
+D:\ITP\Stock\Stock\bin\Debug\Stock.exe
+D:\ITP\Stock\Stock\bin\Debug\Stock.pdb
+D:\ITP\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+D:\ITP\Stock\Stock\obj\Debug\Stock.Stock.resources
+D:\ITP\Stock\Stock\obj\Debug\Stock.materials.resources
+D:\ITP\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+D:\ITP\Stock\Stock\obj\Debug\Stock.Report.resources
+D:\ITP\Stock\Stock\obj\Debug\Stock.Return.resources
+D:\ITP\Stock\Stock\obj\Debug\Stock.Supply.resources
+D:\ITP\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+D:\ITP\Stock\Stock\obj\Debug\Stock.Received.resources
+C:\Users\Munaz\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\Munaz\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\Munaz\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.pdb
+C:\Users\Munaz\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\Munaz\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\Munaz\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+C:\Users\Munaz\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Received.resources
+C:\Users\Munaz\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Stock.resources
+C:\Users\Munaz\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.materials.resources
+C:\Users\Munaz\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\Munaz\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Report.resources
+C:\Users\Munaz\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Return.resources
+C:\Users\Munaz\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Supply.resources
+C:\Users\Munaz\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+D:\Stock\Stock\bin\Debug\Stock.exe.config
+D:\Stock\Stock\obj\Debug\Stock.exe
+D:\Stock\Stock\obj\Debug\Stock.pdb
+C:\Users\Sanomika\Desktop\Final\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\Sanomika\Desktop\Final\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\Sanomika\Desktop\Final\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\Sanomika\Desktop\Final\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+C:\Users\Sanomika\Desktop\Final\Stock\Stock\obj\Debug\Stock.Received.resources
+C:\Users\Sanomika\Desktop\Final\Stock\Stock\obj\Debug\Stock.Stock.resources
+C:\Users\Sanomika\Desktop\Final\Stock\Stock\obj\Debug\Stock.materials.resources
+C:\Users\Sanomika\Desktop\Final\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\Sanomika\Desktop\Final\Stock\Stock\obj\Debug\Stock.Report.resources
+C:\Users\Sanomika\Desktop\Final\Stock\Stock\obj\Debug\Stock.Return.resources
+C:\Users\Sanomika\Desktop\Final\Stock\Stock\obj\Debug\Stock.Supply.resources
+C:\Users\Sanomika\Desktop\Final\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+C:\Users\Sanomika\Desktop\Final\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\Sanomika\Desktop\Final\Stock\Stock\obj\Debug\Stock.pdb
+C:\Users\Abishalini\Desktop\Final\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\Abishalini\Desktop\Final\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\Abishalini\Desktop\Final\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\Abishalini\Desktop\Final\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+C:\Users\Abishalini\Desktop\Final\Stock\Stock\obj\Debug\Stock.Received.resources
+C:\Users\Abishalini\Desktop\Final\Stock\Stock\obj\Debug\Stock.Stock.resources
+C:\Users\Abishalini\Desktop\Final\Stock\Stock\obj\Debug\Stock.materials.resources
+C:\Users\Abishalini\Desktop\Final\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\Abishalini\Desktop\Final\Stock\Stock\obj\Debug\Stock.Report.resources
+C:\Users\Abishalini\Desktop\Final\Stock\Stock\obj\Debug\Stock.Return.resources
+C:\Users\Abishalini\Desktop\Final\Stock\Stock\obj\Debug\Stock.Supply.resources
+C:\Users\Abishalini\Desktop\Final\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+C:\Users\Abishalini\Desktop\Final\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\Abishalini\Desktop\Final\Stock\Stock\obj\Debug\Stock.pdb
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Received.resources
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\FlashControlV71.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\stdole.dll
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Crystal.resources
+C:\Users\Abishalini\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.CrystalReceived.resources
+D:\Stock\Stock\bin\Debug\Stock.exe
+D:\Stock\Stock\bin\Debug\Stock.pdb
+D:\Stock\Stock\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Stock\Stock\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Stock\Stock\bin\Debug\CrystalDecisions.Shared.dll
+D:\Stock\Stock\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Stock\Stock\bin\Debug\FlashControlV71.dll
+D:\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Stock\Stock\bin\Debug\ShockwaveFlashObjects.dll
+D:\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Stock\Stock\bin\Debug\stdole.dll
+D:\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+D:\Stock\Stock\obj\Debug\Stock.Crystal.resources
+D:\Stock\Stock\obj\Debug\Stock.CrystalReceived.resources
+D:\Stock\Stock\obj\Debug\Stock.materials.resources
+D:\Stock\Stock\obj\Debug\Stock.Received.resources
+D:\Stock\Stock\obj\Debug\Stock.Stock.resources
+D:\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+D:\Stock\Stock\obj\Debug\Stock.Report.resources
+D:\Stock\Stock\obj\Debug\Stock.Return.resources
+D:\Stock\Stock\obj\Debug\Stock.Supply.resources
+D:\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+G:\Stock\Stock\bin\Debug\Stock.exe.config
+G:\Stock\Stock\obj\Debug\Stock.exe
+G:\Stock\Stock\obj\Debug\Stock.pdb
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\FlashControlV71.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\bin\Debug\stdole.dll
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\obj\Debug\Stock.Crystal.resources
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\obj\Debug\Stock.CrystalReceived.resources
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\obj\Debug\Stock.materials.resources
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\obj\Debug\Stock.Received.resources
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\obj\Debug\Stock.Stock.resources
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\obj\Debug\Stock.Report.resources
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\obj\Debug\Stock.Return.resources
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\obj\Debug\Stock.Supply.resources
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\Sanomika\Desktop\ITP VIVA\Stock\Stock\obj\Debug\Stock.pdb
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\bin\Debug\stdole.dll
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\obj\Debug\Stock.Crystal.resources
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\obj\Debug\Stock.CrystalReceived.resources
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\obj\Debug\Stock.materials.resources
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\obj\Debug\Stock.Received.resources
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\obj\Debug\Stock.Stock.resources
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\obj\Debug\Stock.Report.resources
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\obj\Debug\Stock.Return.resources
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\obj\Debug\Stock.Supply.resources
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\Munaz\Desktop\Final Documentation\ITP VIVA\Stock\Stock\obj\Debug\Stock.pdb
